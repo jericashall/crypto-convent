@@ -1,5 +1,5 @@
 import {key} from "./apikey.js"
-console.log(key)
+
 let crypto = {}
 document.querySelector('#convert').addEventListener('click', runConversion)
 
